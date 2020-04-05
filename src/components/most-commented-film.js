@@ -19,5 +19,5 @@ export const createMostCommentedFilmTemplate = () => {
           </form>
         </article>
     `
-    )
+  );
 };

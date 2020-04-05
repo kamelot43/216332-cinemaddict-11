@@ -11,5 +11,5 @@ export const createCardsContainerTemplate = () => {
       </section>
       </section>
     `
-    )
+  );
 };

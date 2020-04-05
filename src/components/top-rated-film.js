@@ -19,5 +19,5 @@ export const createTopRatedFilmTemplate = () => {
           </form>
         </article>
     `
-    )
+  );
 };

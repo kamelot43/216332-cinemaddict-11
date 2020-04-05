@@ -10,5 +10,5 @@ export const createTopRatedContainerTemplate = () => {
       </section>
       </section>
     `
-    )
+  );
 };
